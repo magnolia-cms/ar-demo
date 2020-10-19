@@ -7,9 +7,11 @@ Demonstrates how to provide phone and tablet based Augmented Reality (AR) in Mag
 
 The `_dev/simple-example` dir provides a complete web-based AR example without any CMS connection.
 
+Try it out now by visiting https://magnolia-cms.github.io/ar-demo/_dev/simple-example/ar.html on your (AR capable) phone or tablet.
+
 ---
 
-For Magnolia:
+### For Magnolia:
 
 A '3d models' content app allows authors to create items that combine the necessary 3d models with a fallback poster image.
 
