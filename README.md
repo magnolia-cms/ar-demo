@@ -53,6 +53,6 @@ We used this to convert the GLTF directory to a GLB file: https://glb-packer.gli
 
 ## Contributors
 
-Magnolia
-Christopher Zimmermann
-Bartosz Staryga
+* Magnolia
+* Christopher Zimmermann
+* Bartosz Staryga
