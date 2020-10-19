@@ -1,0 +1,16 @@
+datasource:
+  workspace: 3d-models
+  autoCreate: true
+model:
+  nodeType: 3d-model
+  properties:
+    - name: image
+      type: asset
+      label: Image
+    - name: glb
+      type: asset
+      label: GLB file
+    - name: usdz
+      type: asset
+      label: USDZ file
+

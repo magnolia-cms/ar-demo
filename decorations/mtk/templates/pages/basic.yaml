@@ -1,0 +1,5 @@
+areas:
+  main:
+    availableComponents:
+      cf:
+        id: ar-demo:components/augmentedReality

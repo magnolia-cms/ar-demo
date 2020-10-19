@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sv:node xmlns:sv="http://www.jcp.org/jcr/sv/1.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" sv:name="jcr:root">
+  <sv:property sv:name="jcr:primaryType" sv:type="Name">
+    <sv:value>rep:root</sv:value>
+  </sv:property>
+  <sv:node sv:name="Chest">
+    <sv:property sv:name="jcr:primaryType" sv:type="Name">
+      <sv:value>3d-model</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcr:uuid" sv:type="String">
+      <sv:value>08102f1a-2622-4045-833d-2848f488ac11</sv:value>
+    </sv:property>
+    <sv:property sv:name="glb" sv:type="String">
+      <sv:value>jcr:efc32816-98f9-4fa4-bbf3-9b5847c956dd</sv:value>
+    </sv:property>
+    <sv:property sv:name="image" sv:type="String">
+      <sv:value>jcr:a6b83af1-f30b-4149-87b4-af022c8094df</sv:value>
+    </sv:property>
+    <sv:property sv:name="jcrName" sv:type="String">
+      <sv:value>Chest</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:activationStatus" sv:type="Boolean">
+      <sv:value>false</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:created" sv:type="Date">
+      <sv:value>2020-10-19T18:03:21.351+02:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:createdBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastActivated" sv:type="Date">
+      <sv:value>2020-10-19T20:46:48.559+02:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastActivatedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModified" sv:type="Date">
+      <sv:value>2020-10-19T20:46:48.603+02:00</sv:value>
+    </sv:property>
+    <sv:property sv:name="mgnl:lastModifiedBy" sv:type="String">
+      <sv:value>superuser</sv:value>
+    </sv:property>
+    <sv:property sv:name="usdz" sv:type="String">
+      <sv:value>jcr:df5d8fee-e896-4a86-b4fc-37b08f87ba00</sv:value>
+    </sv:property>
+  </sv:node>
+</sv:node>

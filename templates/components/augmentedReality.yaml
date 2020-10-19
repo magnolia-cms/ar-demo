@@ -1,0 +1,4 @@
+title: Augmented Reality
+renderType: freemarker
+templateScript: /ar-demo/templates/components/augmentedReality.ftl
+dialog: ar-demo:components/augmentedReality
